@@ -21,6 +21,7 @@ INFO
 A Login and Registration System Programmed in C++
 
 <br>
+
 DEVELOPED BY NEMONET (TYP)
 
 <br><hr>
